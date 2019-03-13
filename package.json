@@ -1,0 +1,22 @@
+{
+  "name": "itwcw-lib",
+  "version": "1.0.0",
+  "description": "Collection of useful functions for streamlined development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itw-creative-works/itwcw-lib.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "ITW Creative Works",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itw-creative-works/itwcw-lib/issues"
+  },
+  "homepage": "https://github.com/itw-creative-works/itwcw-lib#readme"
+}
