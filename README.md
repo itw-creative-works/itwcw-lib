@@ -1,7 +1,7 @@
 # ITWCWLib
 A collection of Javascript utilities to streamline development.
 
-[Site](https://itwcreativeworks.com/) |
+[Site](https://itwcreativeworks.com/) | [NPM Module](https://www.npmjs.com/package/itwcw-lib) | [GitHub Repo](https://github.com/itw-creative-works/itwcw-lib)
 
 ## Installation
 
