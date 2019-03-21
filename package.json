@@ -1,6 +1,6 @@
 {
   "name": "itwcw-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Collection of useful functions for streamlined development.",
   "main": "index.js",
   "scripts": {
