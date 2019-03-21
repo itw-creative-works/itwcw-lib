@@ -24,7 +24,6 @@ var itwcwlib = require('itwcw-lib');
 ```
 
 ## Why Use this Library?
-
 itwcw-lib makes JavaScript easier by taking the hassle out of working with common issues such as finding days between dates, determining object length, and figuring out whether to add an 's' to something if it's plural.
 
 ## Projects Using this Library
