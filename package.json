@@ -1,6 +1,6 @@
 {
   "name": "itwcw-lib",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Collection of useful functions for streamlined development.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/itw-creative-works/itwcw-lib-npm/issues"
   },
-  "homepage": "https://github.com/itw-creative-works/itwcw-lib-npm#readme"
+  "homepage": "https://itwcreativeworks.com"
 }
