@@ -32,3 +32,8 @@ itwcw-lib makes JavaScript easier by taking the hassle out of working with commo
 [Slapform](https://slapform.com/): A backend processor for your HTML forms on static sites.<br>
 [SoundGrail Music App](https://app.soundgrail.com/): A resource for producers, musicians, and DJs.<br>
 [Hammock Report](https://hammockreport.com/): An API for exploring and listing backyard products.<br>
+
+[Leechii](https://leechiibot.com/): A Telegram bot to manage your engagement groups.<br>
+[Rankiir](https://rankiir.com/): A keyword tracker for search engines.<br>
+[Keywordii](https://keywordii.com/): A keyword tracker for search engines.<br>
+[Socialetto](https://socialetto.com/): A social media influencer search engine.<br>
